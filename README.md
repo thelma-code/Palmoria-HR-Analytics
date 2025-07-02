@@ -18,3 +18,10 @@ In the initial phase of Data cleaning and preparation, the following actions are
 1. Data Transformation and Inspection
 2. Handling missing variables
 3. Data Cleaning and Formatting
+
+### Exploratory Data Analysis
+EDA involved the exploring of the data to answer some questions about the data such as;
+1. What is the Gender distribution in the organization?
+2. Are salaries equitably distributed?
+3. What are the insights on Performance Rating?
+4. Is the organization compliant with regulatory Pay benchmarks?

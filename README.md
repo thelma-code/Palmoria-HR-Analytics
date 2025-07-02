@@ -8,3 +8,13 @@ This report provides a gender-focused analysis of Palmoria Group’s HR data, in
 
 ### Data Source
 This Data was provided by The Incubator Hub as part of the final project requirements for the Digital SkillUp Africa Program
+
+### Tools Used
+- Power Query (For data cleaning and transformation)
+- Power BI (For creating a report)
+
+### Data Cleaning and Preparation
+In the initial phase of Data cleaning and preparation, the following actions are performed;
+1. Data Transformation and Inspection
+2. Handling missing variables
+3. Data Cleaning and Formatting

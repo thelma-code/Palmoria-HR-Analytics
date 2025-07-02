@@ -27,4 +27,11 @@ EDA involved the exploring of the data to answer some questions about the data s
 4. Is the organization compliant with regulatory Pay benchmarks?
 
 ### Analysis
+Here is a preview of the HR Analytics dashboard created in PowerBI
+![Dasboard1](https://github.com/user-attachments/assets/116da0fa-1953-4f8e-a0c6-0e1491d06225)
+![Dasboard2](https://github.com/user-attachments/assets/11fd67d7-89e0-464f-96ef-6940201cc845)
+![Dasboard3](https://github.com/user-attachments/assets/419c7a65-1f19-4685-9c4f-aded8f28a418)
+
+
+
 

@@ -25,3 +25,5 @@ EDA involved the exploring of the data to answer some questions about the data s
 2. Are salaries equitably distributed?
 3. What are the insights on Performance Rating?
 4. Is the organization compliant with regulatory Pay benchmarks?
+
+### Analysis
